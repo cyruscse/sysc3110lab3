@@ -28,5 +28,6 @@ public class AddressBook {
 		AddressBook book = new AddressBook();
 		
 		book.addBuddy(buddy);
+		book.removeBuddy(buddy);
 	}
 }
